@@ -1,1 +1,2 @@
-# p310s-touch-screen-EFI
+# 这是 p310s 或者 TinyMonster Pro PRO 的 EFI
+
